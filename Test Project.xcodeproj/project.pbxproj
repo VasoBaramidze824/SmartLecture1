@@ -15,6 +15,7 @@
 		5A48AAD02BDE680D00D8F9BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A48AACE2BDE680D00D8F9BE /* LaunchScreen.storyboard */; };
 		5A48AADA2BDE7DB300D8F9BE /* dasflasfnlasf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A48AAD92BDE7DB300D8F9BE /* dasflasfnlasf.swift */; };
 		5A48AADC2BDE7DC300D8F9BE /* LJNDSN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A48AADB2BDE7DC300D8F9BE /* LJNDSN.swift */; };
+		5A48AADE2BDE81E300D8F9BE /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A48AADD2BDE81E300D8F9BE /* HomePageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5A48AAD12BDE680D00D8F9BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A48AAD92BDE7DB300D8F9BE /* dasflasfnlasf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dasflasfnlasf.swift; sourceTree = "<group>"; };
 		5A48AADB2BDE7DC300D8F9BE /* LJNDSN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LJNDSN.swift; sourceTree = "<group>"; };
+		5A48AADD2BDE81E300D8F9BE /* HomePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				5A48AAC02BDE680C00D8F9BE /* AppDelegate.swift */,
 				5A48AAD92BDE7DB300D8F9BE /* dasflasfnlasf.swift */,
 				5A48AADB2BDE7DC300D8F9BE /* LJNDSN.swift */,
+				5A48AADD2BDE81E300D8F9BE /* HomePageViewController.swift */,
 				5A48AAC42BDE680C00D8F9BE /* ProfileVC.swift */,
 				5A48AAC62BDE680C00D8F9BE /* Main.storyboard */,
 				5A48AACC2BDE680D00D8F9BE /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 			files = (
 				5A48AAC52BDE680C00D8F9BE /* ProfileVC.swift in Sources */,
 				5A48AADC2BDE7DC300D8F9BE /* LJNDSN.swift in Sources */,
+				5A48AADE2BDE81E300D8F9BE /* HomePageViewController.swift in Sources */,
 				5A48AAC12BDE680C00D8F9BE /* AppDelegate.swift in Sources */,
 				5A48AADA2BDE7DB300D8F9BE /* dasflasfnlasf.swift in Sources */,
 				5A48AAC32BDE680C00D8F9BE /* SceneDelegate.swift in Sources */,
